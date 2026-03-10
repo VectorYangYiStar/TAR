@@ -14,7 +14,7 @@ Official implementation of our CVPR 2026 paper  <b>"TAR: Token-Aware Refinement 
 
 
 <p align="center">
-  <img src="assets/fig.png" width="80%">
+  <img src="assets/Fig.png" width="80%">
 </p>
 
 ## 📖 Introduction
